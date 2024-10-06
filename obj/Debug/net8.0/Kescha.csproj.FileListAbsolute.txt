@@ -1,0 +1,14 @@
+C:\Users\Daler\Desktop\kesha\bin\Debug\net8.0\Kescha.exe
+C:\Users\Daler\Desktop\kesha\bin\Debug\net8.0\Kescha.deps.json
+C:\Users\Daler\Desktop\kesha\bin\Debug\net8.0\Kescha.runtimeconfig.json
+C:\Users\Daler\Desktop\kesha\bin\Debug\net8.0\Kescha.dll
+C:\Users\Daler\Desktop\kesha\bin\Debug\net8.0\Kescha.pdb
+C:\Users\Daler\Desktop\kesha\obj\Debug\net8.0\Kescha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daler\Desktop\kesha\obj\Debug\net8.0\Kescha.AssemblyInfoInputs.cache
+C:\Users\Daler\Desktop\kesha\obj\Debug\net8.0\Kescha.AssemblyInfo.cs
+C:\Users\Daler\Desktop\kesha\obj\Debug\net8.0\Kescha.csproj.CoreCompileInputs.cache
+C:\Users\Daler\Desktop\kesha\obj\Debug\net8.0\Kescha.dll
+C:\Users\Daler\Desktop\kesha\obj\Debug\net8.0\refint\Kescha.dll
+C:\Users\Daler\Desktop\kesha\obj\Debug\net8.0\Kescha.pdb
+C:\Users\Daler\Desktop\kesha\obj\Debug\net8.0\Kescha.genruntimeconfig.cache
+C:\Users\Daler\Desktop\kesha\obj\Debug\net8.0\ref\Kescha.dll
