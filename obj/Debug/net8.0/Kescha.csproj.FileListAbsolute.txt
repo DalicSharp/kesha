@@ -12,3 +12,4 @@ C:\Users\Daler\Desktop\kesha\obj\Debug\net8.0\refint\Kescha.dll
 C:\Users\Daler\Desktop\kesha\obj\Debug\net8.0\Kescha.pdb
 C:\Users\Daler\Desktop\kesha\obj\Debug\net8.0\Kescha.genruntimeconfig.cache
 C:\Users\Daler\Desktop\kesha\obj\Debug\net8.0\ref\Kescha.dll
+C:\Users\Daler\Desktop\kesha\obj\Debug\net8.0\Kescha.sourcelink.json
